@@ -1,0 +1,44 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Kumar+One+Outline');
+
+/*CABECALHO*/
+
+h1 {
+	font-size: 50pt;
+	text-align: center;
+	font-weight: 900;
+}
+p {
+	color: #000;
+	font-family: 'Kumar One Outline', cursive;
+}
+b {
+	color: #00D161;
+}
+img {
+	height: 80px;
+}
+img:hover {
+    transform: scale(1.2) rotate(5deg);
+}
+#Criado {
+	margin-left: 86px;
+}
+#Atualizado {
+	margin-left: 86px;
+}
+.identificacao {
+    margin-top: -38px;
+}
+header#cabecalho {
+	background: #606060
+}
+/*CORPO*/
+ul li {
+	display: inline-block;
+	font-size: 12pt;
+	font-weight: 600;
+}
+a:hover {
+	color: #00D161;
+}
